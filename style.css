@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+  
+    display: block;
+}
+p{
+    display: none;
+    margin-bottom: 30px;
+}
+button{
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+.main-div{
+    padding: 20px;
+}
